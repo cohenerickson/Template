@@ -1,2 +1,3 @@
 # Template
-A template for new projects.
+
+Base template for new projects.
